@@ -28,4 +28,5 @@
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 # Preview 
 
-![](https://github.com/dewaprabawa/IOSfundamentalSubmission-master/blob/master/01.png) ![](https://github.com/dewaprabawa/IOSfundamentalSubmission-master/blob/master/02.png)
+![](https://github.com/dewaprabawa/IOSfundamentalSubmission-master/blob/master/01.png) 
+![](https://github.com/dewaprabawa/IOSfundamentalSubmission-master/blob/master/02.png)
