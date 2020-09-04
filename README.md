@@ -1,5 +1,5 @@
 
-# Dicoding Submission Kelas Pemula IOS
+# Dicoding Fundamental IOS
 
 * This demo application show simple table-view and collection-view with dynamic data from restfull-api(https://rawg.io) that was release in iOS 13. As a bonus, I've decided to make prettier UI.
 
