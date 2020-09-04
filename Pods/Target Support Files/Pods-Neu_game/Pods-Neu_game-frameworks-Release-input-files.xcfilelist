@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Neu_game/Pods-Neu_game-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework
+${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework
+${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework

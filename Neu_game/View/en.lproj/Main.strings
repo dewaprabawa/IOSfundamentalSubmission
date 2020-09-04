@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "I Dewa Gede Agus Prabawa"; ObjectID = "0x9-WR-hY0"; */
+"0x9-WR-hY0.text" = "I Dewa Gede Agus Prabawa";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "1SO-j4-ar7"; */
+"1SO-j4-ar7.title" = "Item";
+
+/* Class = "UILabel"; text = "SUMMARY"; ObjectID = "23P-dC-CEQ"; */
+"23P-dC-CEQ.text" = "SUMMARY";
+
+/* Class = "UILabel"; text = "Platforms"; ObjectID = "2sH-UC-zCR"; */
+"2sH-UC-zCR.text" = "Platforms";
+
+/* Class = "UILabel"; text = "Previews"; ObjectID = "6eh-Yi-54N"; */
+"6eh-Yi-54N.text" = "Previews";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "6i7-PV-Wtb"; */
+"6i7-PV-Wtb.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = " Store"; ObjectID = "9pn-U6-P9e"; */
+"9pn-U6-P9e.normalTitle" = " Store";
+
+/* Class = "UILabel"; text = "No Games Added Yet"; ObjectID = "AiG-xz-e6e"; */
+"AiG-xz-e6e.text" = "No Games Added Yet";
+
+/* Class = "UIButton"; normalTitle = "Read more"; ObjectID = "BUb-13-lpC"; */
+"BUb-13-lpC.normalTitle" = "Read more";
+
+/* Class = "UILabel"; text = "Not Available"; ObjectID = "BxK-LO-kg8"; */
+"BxK-LO-kg8.text" = "Not Available";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "Ca0-90-vi1"; */
+"Ca0-90-vi1.normalTitle" = "SKIP";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "DGa-gG-HaO"; */
+"DGa-gG-HaO.title" = "Item";
+
+/* Class = "UILabel"; text = "LAST STAGE"; ObjectID = "E1y-3B-hhG"; */
+"E1y-3B-hhG.text" = "LAST STAGE";
+
+/* Class = "UILabel"; text = "Released "; ObjectID = "Fcq-8X-GRW"; */
+"Fcq-8X-GRW.text" = "Released ";
+
+/* Class = "UIButton"; normalTitle = " Heii, Prabawa"; ObjectID = "JFQ-rq-Hrz"; */
+"JFQ-rq-Hrz.normalTitle" = " Heii, Prabawa";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "JaM-AT-E3N"; */
+"JaM-AT-E3N.text" = "More";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Lq3-Hy-ol2"; */
+"Lq3-Hy-ol2.normalTitle" = "SAVE";
+
+/* Class = "UIButton"; normalTitle = " Watch trailer"; ObjectID = "NWh-z9-FUp"; */
+"NWh-z9-FUp.normalTitle" = " Watch trailer";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "R7F-zC-047"; */
+"R7F-zC-047.title" = "Search";
+
+/* Class = "UITextField"; placeholder = "Fill the rates"; ObjectID = "SPG-Gs-JFo"; */
+"SPG-Gs-JFo.placeholder" = "Fill the rates";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "VDs-CO-XCp"; */
+"VDs-CO-XCp.normalTitle" = "SAVE";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "XeW-Mc-f8Q"; */
+"XeW-Mc-f8Q.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Brief summary about this game"; ObjectID = "XrP-l8-4Pb"; */
+"XrP-l8-4Pb.placeholder" = "Brief summary about this game";
+
+/* Class = "UILabel"; text = "balipastika@gmail.com"; ObjectID = "ZpB-p6-x3v"; */
+"ZpB-p6-x3v.text" = "balipastika@gmail.com";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ePa-pT-dvh"; */
+"ePa-pT-dvh.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Not Available"; ObjectID = "emK-ar-B9f"; */
+"emK-ar-B9f.text" = "Not Available";
+
+/* Class = "UILabel"; text = "RATES"; ObjectID = "k3I-sS-t8R"; */
+"k3I-sS-t8R.text" = "RATES";
+
+/* Class = "UILabel"; text = "Curren Game Name"; ObjectID = "mK5-yM-gH3"; */
+"mK5-yM-gH3.text" = "Curren Game Name";
+
+/* Class = "UILabel"; text = "HEADING"; ObjectID = "mO5-cp-KF7"; */
+"mO5-cp-KF7.text" = "HEADING";
+
+/* Class = "UILabel"; text = "No Date"; ObjectID = "oJD-Ds-PkA"; */
+"oJD-Ds-PkA.text" = "No Date";
+
+/* Class = "UISegmentedControl"; oQd-b3-KyI.segmentTitles[0] = "Favourite"; ObjectID = "oQd-b3-KyI"; */
+"oQd-b3-KyI.segmentTitles[0]" = "Favourite";
+
+/* Class = "UISegmentedControl"; oQd-b3-KyI.segmentTitles[1] = "Played"; ObjectID = "oQd-b3-KyI"; */
+"oQd-b3-KyI.segmentTitles[1]" = "Played";
+
+/* Class = "UISegmentedControl"; oQd-b3-KyI.segmentTitles[2] = "Best"; ObjectID = "oQd-b3-KyI"; */
+"oQd-b3-KyI.segmentTitles[2]" = "Best";
+
+/* Class = "UISegmentedControl"; oQd-b3-KyI.segmentTitles[3] = "Deleted"; ObjectID = "oQd-b3-KyI"; */
+"oQd-b3-KyI.segmentTitles[3]" = "Deleted";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "rke-ox-KxN"; */
+"rke-ox-KxN.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Games"; ObjectID = "tWi-aH-ZrG"; */
+"tWi-aH-ZrG.title" = "Games";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "xOh-QE-QxA"; */
+"xOh-QE-QxA.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Subheading"; ObjectID = "y4y-dF-LeG"; */
+"y4y-dF-LeG.text" = "Subheading";
+
+/* Class = "UITextField"; placeholder = "Fill the stages"; ObjectID = "yMf-Qa-SBi"; */
+"yMf-Qa-SBi.placeholder" = "Fill the stages";
+
+/* Class = "UILabel"; text = "Genres"; ObjectID = "ycO-Eb-KLo"; */
+"ycO-Eb-KLo.text" = "Genres";
