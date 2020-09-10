@@ -1,7 +1,7 @@
 
 # Dicoding Fundamental IOS
 
-* This demo application show simple table-view and collection-view with dynamic data from RESTfull-api(https://rawg.io) that was release in iOS 13. As a bonus, I've decided to make prettier UI.
+* This demo application show simple table-view and collection-view with dynamic data from RESTful-api(https://rawg.io) that was release in iOS 13. As a bonus, I've decided to make prettier UI.
 
 ## Techniques implemented:
 * UITableView
